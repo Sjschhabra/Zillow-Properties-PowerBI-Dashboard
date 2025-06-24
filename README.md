@@ -2,7 +2,10 @@
 
 ## Overview:
 This project involves creating a Power BI dashboard for analyzing Zillow property listings data. The dashboard provides interactive maps, a decomposition tree, and hierarchical visualizations to enhance data exploration.
-![Image](https://raw.githubusercontent.com/Sjschhabra/Zillow-Properties-PowerBI-Dashboard/refs/heads/main/Zillow%20Properties%20Dashboard_page-0001.jpg)
+![Image1](https://raw.githubusercontent.com/Sjschhabra/Zillow-Properties-PowerBI-Dashboard/refs/heads/main/img/Zillow%20Properties%20Dashboard_page-0001.jpg)
+![Image2](https://raw.githubusercontent.com/Sjschhabra/Zillow-Properties-PowerBI-Dashboard/refs/heads/main/img/Zillow%20Properties%20Dashboard_page-0002.jpg)
+![Image3](https://raw.githubusercontent.com/Sjschhabra/Zillow-Properties-PowerBI-Dashboard/refs/heads/main/img/Zillow%20Properties%20Dashboard_page-0003.jpg)
+
 ## Key Features:
 - Interactive Maps
 - Decomposition Tree
